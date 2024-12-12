@@ -1,0 +1,14 @@
+{
+    "credentials": [
+        {
+            "email": "abcd@abc.co",
+            "password": "secret_sauces"
+        },
+        {
+             "email": "abc@abc.co",
+            "password": "secret_sauce"
+        }
+    ]
+
+   
+}
