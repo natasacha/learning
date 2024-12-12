@@ -4,7 +4,7 @@
 
 describe('API Tests', () => {
 
-    it('Create a book and delete a book', () => {
+    it('Create a book & delete a book', () => {
 
         const randomIsb = Math.floor(Math.random() * 100) + 1;
 
